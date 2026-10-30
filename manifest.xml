@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>ChemPurifierCompat</ID>
+  <Name>ChemPurifier Compat</Name>
+  <Author>zqzhang1996</Author>
+  <ModVersion>1.00</ModVersion>
+  <Description>Allows the Water Purifier to install the Chemical Equipment Module, exempting chemical substances from contaminant removal by module count.</Description>
+  <GameVersions>
+    <Version>0.46</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>ChemPurifierCompat.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Manifest>
