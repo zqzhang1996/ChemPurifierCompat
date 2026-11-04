@@ -1,4 +1,4 @@
-# ChemPurifier Compat
+# 净水器：可能是化学设备 / Water Purifier: Probably Chemical Equipment
 
 《深空当铺》（Probably Stolen）的兼容性模组。允许**净水器**安装**化学设备模组**，并按已安装的化学模块数量分级豁免污染物；同时让**化学师储藏区**（Chemist Storage Bay）可以直接存放带 `FILTER` 标签的物品。
 
@@ -77,6 +77,11 @@ ChemPurifierCompat/
 ```
 
 ## 更新记录
+
+### v1.03
+
+- 模组名改为中英双语「净水器：可能是化学设备 / Water Purifier: Probably Chemical Equipment」。
+- 封面重制：改用游戏内精灵图，只保留游戏名、模组名、一句话简介。
 
 ### v1.02
 

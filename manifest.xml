@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
   <ID>ChemPurifierCompat</ID>
-  <Name>ChemPurifier Compat</Name>
+  <Name>净水器：可能是化学设备 Water Purifier: Probably Chemical Equipment</Name>
   <Author>zqzhang1996</Author>
-  <ModVersion>1.02</ModVersion>
+  <ModVersion>1.03</ModVersion>
   <Description>允许净水器安装化学设备模组，按已安装数量：&#10;· 安装 1 个化学设备模组：酸、碱、酒精、脂合剂不再被净水器视为污染物。&#10;· 安装 2 个化学设备模组：N-羟甲基碱、稳定剂、还原剂也不再被视为污染物。&#10;豁免的物质在净化计算中完全等价于水。&#10;QOL：允许化学师储藏区中放置带有过滤器标签的物品，例如韧棉织物。&#10;Allows the Water Purifier to install the Chemical Equipment Module. Exemptions scale with the number of installed modules:&#10;- 1 module: Acid, Base, Alcohol and Lipobond agent are no longer treated as contaminants.&#10;- 2 module: N-Methylol Base, Stabilizing Agent and Reducing Agent are also exempted.&#10;Exempted substances behave exactly like water during purification and remain in the container afterwards.&#10;QOL: allows items with the FILTER tag (such as Kotton Fabric) to be placed in the Chemist Storage Bay.</Description>
   <GameVersions />
   <Prerequisites />
